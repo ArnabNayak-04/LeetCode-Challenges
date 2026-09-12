@@ -31,10 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
