@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0852-peak-index-in-a-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArnabNayak-04/LeetCode-Challenges/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
